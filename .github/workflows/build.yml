@@ -18,3 +18,6 @@ jobs:
         with:
           name: assignment-file
           path: demo-folder/assignment.txt
+
+Add GitHub Actions workflow to create and upload assignment file as artifact
+
